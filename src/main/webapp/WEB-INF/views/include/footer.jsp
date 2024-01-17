@@ -9,13 +9,13 @@
 </head>
 <body>
 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
-		<tr height="20">
+		<tr height="50">
 			<td>&nbsp;</td>
 		</tr>
 		<tr class="footerline">
 			<td align="center">			
 				<span class="footertext">
-					Copyright ⓒ HyojunParkProfile. All Rights Reserved
+					Copyright ⓒ HyuJunCompany. All Rights Reserved
 				</span>
 			</td>			
 		</tr>
