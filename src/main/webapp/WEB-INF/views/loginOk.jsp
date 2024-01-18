@@ -38,7 +38,7 @@
 					<tr>
 						<td class="con_text02">
 							${memberDto.mname }님 로그인 하셨습니다. 반갑습니다!<br>
-							${memberDto.mid }님의 가입일은 ${memberDto.mdate} 입니다.<br><br>
+							${memberDto.mid }님의 가입일은 ${memberDto.mdate } 입니다.<br><br>
 							질문게시판에 글을 써주세요.
 						</td>
 					</tr>
@@ -48,7 +48,7 @@
 					</tr>
 					<tr>
 						<td align="center">							
-							<input class="con_btn01" type="button" value="질문게시판" onclick="javascript:window.location.href='#'">
+							<input class="con_btn01" type="button" value="질문게시판" onclick="javascript:window.location.href='board'">
 						</td>
 					</tr>
 				</form>
