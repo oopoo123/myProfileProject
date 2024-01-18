@@ -15,7 +15,7 @@
 		<tr class="footerline">
 			<td align="center">			
 				<span class="footertext">
-					Copyright ⓒ HyuJunCompany. All Rights Reserved
+					Copyright ⓒ HyoJunCompany. All Rights Reserved
 				</span>
 			</td>			
 		</tr>
